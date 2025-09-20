@@ -17,6 +17,10 @@ rojo serve
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
 
 ## Using Roport
+Since Roport is a plugin that is open to everyone, you can simply download it
+from the Marketplace following this link:
+
+A more in depth guide will be coming out on YouTube at this link:
 
 ## Notes
 > [!NOTE]
